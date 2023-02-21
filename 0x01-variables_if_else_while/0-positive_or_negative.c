@@ -5,7 +5,7 @@
 *main - Entry point
 *
 *Description: Numbers if positive, negative or zero
-*Return: always
+*Return: always 0 (success)
 */
 int main(void)
 {
