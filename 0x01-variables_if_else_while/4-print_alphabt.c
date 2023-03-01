@@ -3,7 +3,7 @@
 #include<stdlib.h>
 /**
   *main - Entry point
-  *Description: 'Print numbers of base 10'
+  *Description: 'Print alphabet except q and e'
   *Return: 0
   */
 int main(void)
