@@ -8,12 +8,11 @@
   */
 int main(void)
 {
-	char c = '0';
+	int n;
 
-	while (c <= '0')
+	for (n = 0; n <= 9; n++)
 	{
-		putchar(c);
-		c++;
+		printf("%d", n);
 	}
 
 	putchar('\n');
